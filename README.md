@@ -4,8 +4,8 @@ Fork of [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) 
 
 #### Upstream Links
 
-* Docker Registry @ [kylemanna/openvpn](https://hub.docker.com/r/jodlajodla/openvpn-armhf/)
-* GitHub @ [kylemanna/docker-openvpn](https://github.com/jodlajodla/docker-openvpn)
+* Docker Registry @ [jodlajodla/openvpn-armhf](https://hub.docker.com/r/jodlajodla/openvpn-armhf/)
+* GitHub @ [jodlajodla/docker-openvpn](https://github.com/jodlajodla/docker-openvpn)
 
 ## Quick Start
 
